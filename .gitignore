@@ -1,0 +1,4 @@
+node_modules
+.env
+brandsterCredentials.json
+frontend

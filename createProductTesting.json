@@ -1,0 +1,289 @@
+{
+    "itemName": "Wireless Headphones",
+    "itemDescription": "Noise-cancelling over-ear headphones with long battery life.",
+    "price": 89.99,
+    "productType": "Electronics",
+    "hashtags": [
+        "music",
+        "technology",
+        "audio",
+        "shopping"
+    ],
+    "stock": 25,
+    "category": "Audio",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Smartphone Case",
+    "itemDescription": "Durable case with a sleek design for protection.",
+    "price": 19.99,
+    "productType": "Accessories",
+    "hashtags": [
+        "shopping",
+        "fashion",
+        "technology"
+    ],
+    "stock": 50,
+    "category": "Mobile Accessories",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Gaming Mouse",
+    "itemDescription": "Ergonomic gaming mouse with customizable DPI settings.",
+    "price": 49.99,
+    "productType": "Electronics",
+    "hashtags": [
+        "gaming",
+        "technology",
+        "sports"
+    ],
+    "stock": 15,
+    "category": "Gaming",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Yoga Mat",
+    "itemDescription": "Non-slip yoga mat for comfortable workouts.",
+    "price": 29.99,
+    "productType": "Fitness",
+    "hashtags": [
+        "fitness",
+        "health",
+        "sports"
+    ],
+    "stock": 30,
+    "category": "Sports",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Bluetooth Speaker",
+    "itemDescription": "Portable Bluetooth speaker with deep bass.",
+    "price": 59.99,
+    "productType": "Electronics",
+    "hashtags": [
+        "music",
+        "party",
+        "technology"
+    ],
+    "stock": 40,
+    "category": "Audio",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "LED Desk Lamp",
+    "itemDescription": "Adjustable LED desk lamp with multiple brightness settings.",
+    "price": 39.99,
+    "productType": "Home & Living",
+    "hashtags": [
+        "home",
+        "technology",
+        "art"
+    ],
+    "stock": 20,
+    "category": "Lighting",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Coffee Maker",
+    "itemDescription": "Automatic coffee maker with programmable settings.",
+    "price": 89.99,
+    "productType": "Home Appliances",
+    "hashtags": [
+        "cooking",
+        "kitchen",
+        "coffee"
+    ],
+    "stock": 10,
+    "category": "Kitchen",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Fitness Tracker",
+    "itemDescription": "Smart fitness tracker with heart rate monitoring.",
+    "price": 69.99,
+    "productType": "Wearables",
+    "hashtags": [
+        "fitness",
+        "health",
+        "technology"
+    ],
+    "stock": 35,
+    "category": "Health",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Bluetooth Earbuds",
+    "itemDescription": "Compact Bluetooth earbuds with superior sound quality.",
+    "price": 79.99,
+    "productType": "Electronics",
+    "hashtags": [
+        "music",
+        "audio",
+        "technology"
+    ],
+    "stock": 45,
+    "category": "Audio",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Portable Charger",
+    "itemDescription": "High-capacity portable charger for on-the-go charging.",
+    "price": 29.99,
+    "productType": "Accessories",
+    "hashtags": [
+        "travel",
+        "technology",
+        "convenience"
+    ],
+    "stock": 50,
+    "category": "Mobile Accessories",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Air Fryer",
+    "itemDescription": "Healthy air fryer for oil-free cooking.",
+    "price": 99.99,
+    "productType": "Home Appliances",
+    "hashtags": [
+        "cooking",
+        "health",
+        "kitchen"
+    ],
+    "stock": 8,
+    "category": "Kitchen",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Smartwatch",
+    "itemDescription": "Feature-rich smartwatch with fitness tracking.",
+    "price": 149.99,
+    "productType": "Wearables",
+    "hashtags": [
+        "fitness",
+        "technology",
+        "health"
+    ],
+    "stock": 25,
+    "category": "Health",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Skincare Set",
+    "itemDescription": "Complete skincare set for healthy glowing skin.",
+    "price": 49.99,
+    "productType": "Beauty",
+    "hashtags": [
+        "beauty",
+        "health",
+        "fashion"
+    ],
+    "stock": 40,
+    "category": "Health & Beauty",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Yoga Block",
+    "itemDescription": "Lightweight foam yoga block for added support.",
+    "price": 15.99,
+    "productType": "Fitness",
+    "hashtags": [
+        "fitness",
+        "health",
+        "sports"
+    ],
+    "stock": 60,
+    "category": "Sports",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "LED String Lights",
+    "itemDescription": "Decorative LED string lights for indoor and outdoor use.",
+    "price": 25.99,
+    "productType": "Home & Living",
+    "hashtags": [
+        "home",
+        "decor",
+        "art"
+    ],
+    "stock": 55,
+    "category": "Lighting",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},
+{
+    "itemName": "Wireless Keyboard",
+    "itemDescription": "Sleek wireless keyboard for efficient typing.",
+    "price": 39.99,
+    "productType": "Electronics",
+    "hashtags": [
+        "technology",
+        "gaming",
+        "office"
+    ],
+    "stock": 30,
+    "category": "Computer Accessories",
+    "image": [
+        "https://random.imagecdn.app/200/200"
+    ],
+    "creatorId": "ObjectId_here",
+    "createdAt": "2024-11-01T00:00:00Z"
+},  

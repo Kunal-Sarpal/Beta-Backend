@@ -1,0 +1,87 @@
+
+SIGNUP Data for Testing ------> CREATOR -------
+// user 1-------------------------------
+        {
+                "username": "brand_creator123",
+                "email": "brandcreator@example.com",
+                "password": "securepassword123",
+                "creatorFirstName": "John",
+                "creatorLastName": "Doe",
+                "brandType": "Fashion",
+                "gstNumber": "22ABCDE1234F1Z5", 
+                "address": "1234, Brand Street, Mumbai, Maharashtra, India",
+                "contactNumber": "9876543210",
+                "createdAt": "2024-10-13T12:34:56.789Z"
+        }
+// user 2-------------------------------
+{
+    "username": "brand_innovator456",
+    "email": "innovator@example.com",
+    "password": "brandSecure456",
+    "creatorFirstName": "Alice",
+    "creatorLastName": "Smith",
+    "brandType": "Tech",
+    "gstNumber": "27EFGHI5678J2K3",
+    "address": "4567, Innovation Hub, Bengaluru, Karnataka, India",
+    "contactNumber": "9123456789",
+    "createdAt": "2024-10-14T09:22:33.456Z"
+}
+// user 3-------------------------------
+{
+    "username": "creative_minds789",
+    "email": "creativemind@example.com",
+    "password": "mindCreative789",
+    "creatorFirstName": "David",
+    "creatorLastName": "Johnson",
+    "brandType": "Art",
+    "gstNumber": "29JKLM9876N3O2",
+    "address": "2345, Art Avenue, Jaipur, Rajasthan, India",
+    "contactNumber": "9988776655",
+    "createdAt": "2024-10-12T15:44:21.678Z"
+}
+
+// user 4-------------------------------
+{
+    "username": "eco_friendly112",
+    "email": "ecofriendly@example.com",
+    "password": "greenPlanet112",
+    "creatorFirstName": "Sophia",
+    "creatorLastName": "Garcia",
+    "brandType": "Sustainability",
+    "gstNumber": "23ABCDE5432Z1M7",
+    "address": "3456, Green Valley, Pune, Maharashtra, India",
+    "contactNumber": "9234567890",
+    "createdAt": "2024-10-16T10:22:34.987Z"
+}
+
+
+// CREATOR 
+LOGIN Data for Testing ------> CREATOR -------
+user 1 Login Credentials------------------------
+
+{
+        "email": "brandcreator@example.com",
+        "password": "securepassword123",
+}
+user 2 Login Credentials------------------------
+
+{
+       "email": "innovator@example.com",
+        "password": "brandSecure456",
+}
+user 3 Login Credentials------------------------
+
+{
+        "email": "creativemind@example.com",
+        "password": "mindCreative789",
+}
+user 4 Login Credentials------------------------
+
+{
+        "email": "ecofriendly@example.com",
+        "password": "greenPlanet112",
+}
+
+
+        
+
