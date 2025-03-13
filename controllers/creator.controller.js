@@ -61,7 +61,7 @@ module.exports.signup = async (req,res,next)=>{
             msg: "Error creating creator",
             error: error.message
         });
-        next(err)
+        next(error)
     }
 }
 module.exports.signin = async (req,res,next)=>{
