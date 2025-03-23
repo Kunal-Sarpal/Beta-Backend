@@ -2,7 +2,7 @@ const { Product } = require("../db/db");
 
 module.exports.createProduct = async (req,res)=>{
     try{
-        const {itemName,itemDescription,price,productType,stock,category,hashtags,image} = req.body;
+        const {itemName,itemDescription,price,productType,stock,category,hashtags,image,creatorId} = req.body;
 
         if(!itemName || !itemDescription || !price || !productType || !stock || !category){
             throw new Error("Please fill all the details")
@@ -17,7 +17,8 @@ module.exports.createProduct = async (req,res)=>{
                 stock,
                 category,
                 hashtags,
-                image
+                image,
+                creatorId
             })
 
             res.status(200).json({
