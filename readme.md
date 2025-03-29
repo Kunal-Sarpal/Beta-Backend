@@ -1,7 +1,6 @@
 # Benzo Project
-Introduction
-
-- **Benzo is an innovative platform designed to empower creators and users by providing a seamless experience for brand building, product discovery, and user engagement. It bridges the gap between creators and consumers by leveraging advanced algorithms, AI-driven insights, and gamified - **interactions. Benzo ensures that users discover the most relevant products while allowing creators to scale their businesses efficiently.
+## Introduction
+- Benzo is an innovative platform designed to empower creators and users by providing a seamless experience for brand building, product discovery, and user engagement. It bridges the gap between creators and consumers by leveraging advanced algorithms, AI-driven insights, and gamified - - interactions. Benzo ensures that users discover the most relevant products while allowing creators to scale their businesses efficiently.
 
 This document outlines the key features, algorithms, and additional functionalities that make Benzo a unique and engaging platform.
 ## Creator Features
