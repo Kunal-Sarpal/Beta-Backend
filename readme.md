@@ -1,61 +1,78 @@
-<section class="section">
-    <h2>Overview</h2>
-    <p>Bransteer is a platform that allows creators to build brands, showcase products, and interact with users. This document outlines the core features, algorithms, and additional functionalities that enhance the user experience.</p>
-</section>
+# Benzo Project
 
-<section class="section">
-    <h2>Creator Features</h2>
-    
-    <h3>Completed Features</h3>
-    <ul>
-        <li class="completed">Creator Signup ✅ <span class="hashtag">#authentication #user-management</span></li>
-        <li class="completed">User Signup ✅ <span class="hashtag">#authentication #user-management</span></li>
-        <li class="completed">Creator Login ✅ <span class="hashtag">#authentication #security</span></li>
-        <li class="completed">User Login ✅ <span class="hashtag">#authentication #security</span></li>
-        <li class="completed">Creator getProfile ✅ <span class="hashtag">#profile-management #data-retrieval</span></li>
-        <li class="completed">Creator Signin ✅ <span class="hashtag">#authentication #security</span></li>
-        <li class="completed">Creator create_product ✅ <span class="hashtag">#product-management #ecommerce</span></li>
-        <li class="completed">Creator updateHashtag ✅ <span class="hashtag">#content-management #SEO</span></li>
-        <li class="completed">Creator getProducts ✅ <span class="hashtag">#product-management #data-retrieval</span></li>
-    </ul>
-    
-    <h3>Pending Features</h3>
-    <ul>
-        <li class="pending">Creator profileView ❌ <span class="hashtag">#profile-management #UI/UX</span></li>
-        <li class="pending">Creator updateProduct ❌ <span class="hashtag">#product-management #CRUD</span></li>
-        <li class="pending">Creator deleteProduct ❌ <span class="hashtag">#product-management #CRUD</span></li>
-        <li class="pending">Creator getCreatorProfile ❌ <span class="hashtag">#profile-management #data-retrieval</span></li>
-        <li class="pending">Creator updateCreatorProfile ❌ <span class="hashtag">#profile-management #data-update</span></li>
-        <li class="pending">Creator deleteCreatorProfile ❌ <span class="hashtag">#profile-management #account-deletion</span></li>
-    </ul>
-</section>
+## Creator Features
 
-<section class="section">
-    <h2>Algorithms</h2>
-    <ul>
-        <li><strong>Hashtag to Interest Mapping</strong> <span class="hashtag">#AI #recommendation-system</span></li>
-        <li><strong>Reputation System for Creators and Users</strong> <span class="hashtag">#trust #ratings</span></li>
-        <li><strong>Recommendation Engine Based on User Behavior</strong> <span class="hashtag">#AI #machine-learning</span></li>
-        <li><strong>Milestone-Based Reward System for Users</strong> <span class="hashtag">#gamification #user-engagement</span></li>
-        <li><strong>Content Discovery Based on Community Support</strong> <span class="hashtag">#social-proof #visibility</span></li>
-        <li><strong>Fraud Detection and Trust Score</strong> <span class="hashtag">#security #anti-fraud</span></li>
-        <li><strong>Dynamic Pricing Based on Demand</strong> <span class="hashtag">#pricing-strategy #market-analysis</span></li>
-        <li><strong>Brand Growth Prediction</strong> <span class="hashtag">#analytics #AI</span></li>
-        <li><strong>Product Categorization and Tagging</strong> <span class="hashtag">#organization #SEO</span></li>
-        <li><strong>AI-Powered Customer Support</strong> <span class="hashtag">#AI #chatbot</span></li>
-    </ul>
-</section>
+✅ **Implemented Features:**
+- Creator Signup  
+- User Signup  
+- Creator Login  
+- User Login  
+- Creator getProfile  
+- Creator Signin  
+- Creator create_product  
+- Creator updateHashtag  
+- Creator getProducts  
 
-<section class="section">
-    <h2>Additional Features</h2>
-    <ul>
-        <li><strong>Live Brand Collaborations</strong> <span class="hashtag">#livestreaming #partnerships</span></li>
-        <li><strong>Virtual Brand Ambassadors</strong> <span class="hashtag">#AI #marketing</span></li>
-        <li><strong>Brand Loyalty Gamification</strong> <span class="hashtag">#gamification #loyalty-program</span></li>
-    </ul>
-</section>
+❌ **Pending Features:**
+- Creator profileView  
+- Creator updateProduct  
+- Creator deleteProduct  
+- Creator getCreatorProfile  
+- Creator updateCreatorProfile  
+- Creator deleteCreatorProfile  
 
-<section class="section">
-    <h2>Conclusion</h2>
-    <p>Bransteer is designed to help creators build successful brands through advanced algorithms, community engagement, and innovative features. More updates and enhancements are on the way!</p>
-</section>
+## Algorithms
+
+### 1. Hashtag to Interest Mapping
+- **What it does:** Connects user interests (hashtags) with relevant products.
+- **How it helps:** Shows users products matching their preferences.
+
+### 2. Reputation System for Creators and Users
+- **What it does:** Rates both creators and users based on interactions.
+- **How it helps:** Builds trust and credibility.
+
+### 3. Recommendation Engine Based on User Behavior
+- **What it does:** Suggests products based on user activity.
+- **How it helps:** Personalizes the user experience.
+
+### 4. Milestone-Based Reward System for Users
+- **What it does:** Rewards users for engagement.
+- **How it helps:** Encourages users to stay active.
+
+### 5. Content Discovery Based on Community Support
+- **What it does:** Promotes popular brands with positive feedback.
+- **How it helps:** Ensures quality content reaches more users.
+
+### 6. Fraud Detection and Trust Score
+- **What it does:** Detects fake reviews and suspicious activities.
+- **How it helps:** Keeps the platform secure and authentic.
+
+### 7. Dynamic Pricing Based on Demand
+- **What it does:** Adjusts product pricing dynamically.
+- **How it helps:** Maximizes revenue and provides better deals.
+
+### 8. Brand Growth Prediction
+- **What it does:** Predicts brand success based on engagement.
+- **How it helps:** Helps creators optimize growth strategies.
+
+### 9. Product Categorization and Tagging
+- **What it does:** Organizes products into relevant categories.
+- **How it helps:** Improves searchability and user navigation.
+
+### 10. AI-Powered Customer Support
+- **What it does:** Uses AI chatbots for instant support.
+- **How it helps:** Enhances user experience and reduces workload.
+
+## Additional Features
+
+### Live Brand Collaborations
+- **What it is:** Brands can merge to create a single brand.
+- **Why it's unique:** Enables real-time brand partnerships through live streaming.
+
+### Virtual Brand Ambassadors
+- **What it is:** AI-generated influencers represent brands.
+- **Why it's unique:** Adds a futuristic and tech-savvy branding approach.
+
+### Brand Loyalty Gamification
+- **What it is:** Users earn points for brand interactions.
+- **Why it's unique:** Encourages long-term user engagement and brand loyalty.
