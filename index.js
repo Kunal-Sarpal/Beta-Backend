@@ -9,7 +9,7 @@ const creatorRoute = require("./Routes/creator");  // Ensure correct import
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-const mongoURI = 'mongodb+srv://sarpalkunal8:kunal30@cluster0.jbugw.mongodb.net/Startup'; 
+const mongoURI = ''; 
 // const mongoURI = 'mongodb://localhost:27017/Startup1';
 
 app.use("/api/v1/user", userRouter);
